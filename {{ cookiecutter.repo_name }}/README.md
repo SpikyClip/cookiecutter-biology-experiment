@@ -38,7 +38,7 @@ Project Organization
     │   ├── data           <- Scripts to download, generate or clean data
     │   │
     │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
+    │   │                     predictions
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │

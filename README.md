@@ -65,7 +65,7 @@ The directory structure of your new project looks like this:
     │   ├── data           <- Scripts to download, generate or clean data
     │   │
     │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
+    │   │                     predictions
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │
